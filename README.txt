@@ -15,7 +15,7 @@ docker-compose up -d
 =================================================== 
 SQL Query to create DB :
 
+CREATE DATABASE testDB;
 use testDB;
-CREATE T 
 
 ===================================================
